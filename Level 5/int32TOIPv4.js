@@ -30,7 +30,7 @@ function converter(num){
 console.log(converter(2149583361))
 
 //Alt Solutions
-function int32ToIp(int32){
+//function int32ToIp(int32){
 
 //     return (
 //              ((int32 >> 24) & 0xFF) + "." +
